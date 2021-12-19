@@ -1,0 +1,7 @@
+name: CoolChat
+version: ${project.version}
+
+depend:
+  - LuckPerms
+
+main: com.aubenoire.coolchat.CoolChat
